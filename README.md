@@ -1,2 +1,2 @@
 # os222
-Operating Systems 2022/2023-1
+This is my repository for Operating Systems Course (odd semester 2022/2023)
