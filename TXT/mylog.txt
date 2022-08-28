@@ -4,3 +4,7 @@
 ZCZC W00 45 L01 SCELE/Discord related
 ZCZC W00 90 L02 ZOOM meetings related
 ZCZC W00 15 L41 TXT/mylog.txt related
+ZCZC W00 30 L86 House chore; Memasak nasi, mengantar dan menjemput laundry
+ZCZC W00 25 L87 Dinner
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 60 L98 Organization monthly meeting
