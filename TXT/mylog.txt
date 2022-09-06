@@ -18,3 +18,5 @@ ZCZC W00 90 L15 Assignment #05
 ZCZC W00 15 L64 Helping a friend (OS related problem)
 ZCZC W00 60 L70 Studying for other courses.
 ZCZC W00 80 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 200 L99 Face-to-face lecture
+ZCZC W01 120 L05 Quiz related including studying
