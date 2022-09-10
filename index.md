@@ -2,9 +2,8 @@
 ---
 
 ---
-[LINKS]({{ site.baseurl }}/LINKS/)
-[LOG]({{ site.baseurl }}{{ site.myloglink }})
-[GitHub]({{ site.githublink }})
+[LOG][https://divanyh.github.io/os222/TXT/mylog.txt]
+[GitHub][https://github.com/divanyh/os222]
+[/LINKS/][https://divanyh.github.io/os222/LINKS]
 ---
-© {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}. 
 ---
