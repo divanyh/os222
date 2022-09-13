@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS/.
+permalink: /LINKS/
 ---
 
 These links are useful for me;
