@@ -28,4 +28,10 @@ ZCZC W01 90 L02 ZOOM meetings related
 ZCZC W01 200 L70 Studying for other courses
 ZCZC W02 1100 L99 Face-to-face lecture
 ZCZC W02 60 L09 Assignment in General
-ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W03 1150 L99 Face-to-face lecture
+ZCZC W03 720 L09 Assignment in General
+ZCZC W03 60 L03 GitHub and git related
+ZCZC W03 100 L06 GSGS
+ZCZC W03 50 L05 Quiz related
+.
