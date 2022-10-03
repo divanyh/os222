@@ -34,4 +34,11 @@ ZCZC W03 720 L09 Assignment in General
 ZCZC W03 60 L03 GitHub and git related
 ZCZC W03 100 L06 GSGS
 ZCZC W03 50 L05 Quiz related
-.
+ZCZC W04 1100 L99 Face-to-face lecture
+ZCZC W04 120 L05 Quiz related
+ZCZC W04 540 L09 Assignment in General
+ZCZC W04 120 L06 GSGS
+ZCZC W04 1680 L84 Relax, Rest, Nap, and Sleep
+ZCZC W04 80 L87 Breakfast
+ZCZC W04 60 L12 Assignment #02
+ZCZC W04 200 L70 Studying for other courses 
