@@ -33,3 +33,13 @@ This page summarizing about file system. Giving another insights about file syst
 
 4. [File System Implementation in Operating System #GFG](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)<br>
 This page also summarizing about file system implementation. But, I think their article is a bit different than silberchartz.
+
+## W04
+1. [Making Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+Since One of this week POP QUIZ(zes) is encrypt a file with Makefile, maybe you need to know how to make it via this website. It helps me, but sir RMS's Makefile source code is much better.
+
+2. [Memory Addressing in C for dummies](https://www.w3schools.com/c/c_memory_address.php)<br>
+Recently we studied about memory allocation. This page helps me to understand :D
+
+3. [Pointer in C](https://www.guru99.com/c-pointers.html)<br>
+Beside the memory thingy, you - I need to know how pointer(s) work. Read this to help you :)!
