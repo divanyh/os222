@@ -43,3 +43,13 @@ Recently we studied about memory allocation. This page helps me to understand :D
 
 3. [Pointer in C](https://www.guru99.com/c-pointers.html)<br>
 Beside the memory thingy, you - I need to know how pointer(s) work. Read this to help you :)!
+
+## W05
+1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Another short reference beside the Silberchartz. Personally, I think it's quite general but we could get more knowledge how to understand and explain it generally.
+
+2. [Optimal Page Replacement Algorithm](https://www.geeksforgeeks.org/optimal-page-replacement-algorithm/?ref=rp)<br>
+We learn about page replacement this week especially the FIFO methods. If you interested, here is the algorithm for Optimal Page Replacement.
+
+3. [LRU Page Replacement Program](https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/)<br>
+For me, seeing this as a program and seeing the example makes me understand better. 
