@@ -41,4 +41,17 @@ ZCZC W04 120 L06 GSGS
 ZCZC W04 1680 L84 Relax, Rest, Nap, and Sleep
 ZCZC W04 80 L87 Breakfast
 ZCZC W04 60 L12 Assignment #02
-ZCZC W04 200 L70 Studying for other courses 
+ZCZC W04 200 L70 Studying for other courses
+ZCZC W05 1100 L99 Face-to-face lecture
+ZCZC W05 60 L09 Assignment in General
+ZCZC W05 540 L70 Studying for other courses
+ZCZC W05 1440 L84 Relax, Rest, Nap, and Sleep
+ZCZC W05 25 L05 Quiz related
+ZCZC W05 200 L01 SCELE/Discord related
+ZCZC W05 120 L80 Watching: Netflix
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 40 L14 Assignment #04
+ZCZC W05 300 L85 Cat Sit
+ZCZC W05 75 L86 House chore
+ZCZC W05 60 L64 Helping a friend
+ZCZC W05 600 Working 
