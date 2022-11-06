@@ -54,4 +54,11 @@ ZCZC W05 40 L14 Assignment #04
 ZCZC W05 300 L85 Cat Sit
 ZCZC W05 75 L86 House chore
 ZCZC W05 60 L64 Helping a friend
-ZCZC W05 600 Working 
+ZCZC W05 600 Working
+ZCZC W06 1000 L99 Face-to-face lecture
+ZCZC W06 720 L09 Assignment in General
+ZCZC W06 300 L85 Cat Sit
+ZCZC W06 1680 L84 Relax, Rest, Nap, and Sleep
+ZCZC WO6 20 L13 Assignment #03
+ZCZC W06 600 L03 GitHub and Git related
+ZCZC W06 1200 L01 SCELE/Discord related
