@@ -10,18 +10,18 @@ permalink: /LINKS/
 
 These links are useful for me;
 
-## W01
+## W01 🤩
 1. [Install Putty on your Mac Silicon based computer](https://rajivverma.me/blog/tech/how-to-install-putty-on-macbook-air-m1/)<br>
 Since I am a Mac Silicon user, downloading applications is not that easy. I try to kept up with OS assignments and found this link so i can install putty. 
 
 2. [Made this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)<br>
 This link actually on the W01 Assignment #3 page but it does help me to made this page. By the way, you must be **patient** and don't forget to refresh your page to see the changes.
 
-## W02
+## W02 🤷‍♀️
 1. [Authentication on Operating System](https://codescracker.com/operating-system/user-authentication.htm)<br>
 I am curious about authentication in operating system  since it appears on weekly quiz. 
 
-## W03
+## W03 📁
 1. [Encrypting you file with Public Key/Asymmetrically](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)<br>
 Find out how to encrypt your file asymmetrically here. They describe why we need to use some codes like --sign, --armor, etc.
 
@@ -34,7 +34,7 @@ This page summarizing about file system. Giving another insights about file syst
 4. [File System Implementation in Operating System #GFG](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)<br>
 This page also summarizing about file system implementation. But, I think their article is a bit different than silberchartz.
 
-## W04
+## W04 📇
 1. [Making Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
 Since One of this week POP QUIZ(zes) is encrypt a file with Makefile, maybe you need to know how to make it via this website. It helps me, but sir RMS's Makefile source code is much better.
 
@@ -44,7 +44,7 @@ Recently we studied about memory allocation. This page helps me to understand :D
 3. [Pointer in C](https://www.guru99.com/c-pointers.html)<br>
 Beside the memory thingy, you - I need to know how pointer(s) work. Read this to help you :)!
 
-## W05
+## W05 👨‍💻
 1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Another short reference beside the Silberchartz. Personally, I think it's quite general but we could get more knowledge how to understand and explain it generally.
 
@@ -53,3 +53,13 @@ We learn about page replacement this week especially the FIFO methods. If you in
 
 3. [LRU Page Replacement Program](https://www.geeksforgeeks.org/program-for-least-recently-used-lru-page-replacement-algorithm/)<br>
 For me, seeing this as a program and seeing the example makes me understand better. 
+
+## W06 🍴
+1. [Forking things](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+This link summarize all you need to know about fork in operating system. They put some code visualizations that might help you.
+
+2. [Difference Between Wait and Sleep](http://www.differencebetween.net/technology/software-technology/difference-between-sleep-and-wait/)
+We need to understand the differences between them to use them correctly. In case you're still confused, maybe this link can help you to understand the concept better.
+
+3. [Find your process's PID and PPID](https://linuxhandbook.com/find-process-id/)
+We know what to write on PID and PPID columns in exam questions. But how about the real process we do on our virtual box? You can found it here.
