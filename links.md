@@ -55,21 +55,21 @@ We learn about page replacement this week especially the FIFO methods. If you in
 For me, seeing this as a program and seeing the example makes me understand better. 
 
 ## W06 🍴
-1. [Forking things](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+1. [Forking things](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) <br>
 This link summarize all you need to know about fork in operating system. They put some code visualizations that might help you.
 
-2. [Difference Between Wait and Sleep](http://www.differencebetween.net/technology/software-technology/difference-between-sleep-and-wait/)
+2. [Difference Between Wait and Sleep](http://www.differencebetween.net/technology/software-technology/difference-between-sleep-and-wait/)<br>
 We need to understand the differences between them to use them correctly. In case you're still confused, maybe this link can help you to understand the concept better.
 
-3. [Find your process's PID and PPID](https://linuxhandbook.com/find-process-id/)
+3. [Find your process's PID and PPID](https://linuxhandbook.com/find-process-id/)<br>
 We know what to write on PID and PPID columns in exam questions. But how about the real process we do on our virtual box? You can found it here.
 
 ## W07 🔗
-1. [Process Synchronization and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)
+1. [Process Synchronization and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)<br>
 This page gave me some examples about process synchronization and deadlocks. The writer also provide some simple sketches to help us understand better. I think this page is more suitable if you are know what is process synchronization and deadlocks first.
 
-2. [How to prevent Deadlocks](https://www.geeksforgeeks.org/deadlock-prevention/)
+2. [How to prevent Deadlocks](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 We don't want deadlocks. This page gave us some advice(s) to prevent deadlocks happen.
 
-3. [Detect deadlock and recover from it](https://www.geeksforgeeks.org/deadlock-detection-recovery/?ref=rp)
+3. [Detect deadlock and recover from it](https://www.geeksforgeeks.org/deadlock-detection-recovery/?ref=rp)<br>
 Beside the prevention, we should know how to face it. This page gave me some informations about how to detect the deadlock and how to recover our processes.
