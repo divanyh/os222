@@ -61,4 +61,11 @@ ZCZC W06 300 L85 Cat Sit
 ZCZC W06 1680 L84 Relax, Rest, Nap, and Sleep
 ZCZC WO6 20 L13 Assignment #03
 ZCZC W06 600 L03 GitHub and Git related
-ZCZC W06 1200 L01 SCELE/Discord related
+ZCZC W06 1200 L01 SCELE/Discord relate
+ZCZC W07 1260 L84 Rest and Sleep
+ZCZC W07 120 L12 Assignment #03
+ZCZC W07 1000 L09 Assignment in General
+ZCZC W07 200 L99 Face-to-face lecture
+ZCZC W07 180 L05 Quiz related
+ZCZC W07 200 L70 Studying for other courses
+ZCZC W07 300 L06 GSGS
