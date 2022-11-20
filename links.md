@@ -5,7 +5,7 @@ permalink: /LINKS/
 ---
 [LOG](https://divanyh.github.io/os222/TXT/mylog.txt) ---
 [GitHub](https://github.com/divanyh/os222) ---
-[/LINKS/](https://divanyh.github.io/os222/LINKS)
+[LINKS](https://divanyh.github.io/os222/LINKS)
 ---
 
 These links are useful for me;
@@ -73,3 +73,13 @@ We don't want deadlocks. This page gave us some advice(s) to prevent deadlocks h
 
 3. [Detect deadlock and recover from it](https://www.geeksforgeeks.org/deadlock-detection-recovery/?ref=rp)<br>
 Beside the prevention, we should know how to face it. This page gave me some informations about how to detect the deadlock and how to recover our processes.
+
+## W08 ⌨️
+1. [Linux From Scratch (ID)](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)<br>
+Starting this week, our assignments are about to do Linux From Scratch (LFS). This is a youtube playlist from sxurce cxde about how to do LFS. I think their playlist is useful especially for someone who needs verbal instructions instead of read them from the LFS books.
+
+2. [Process Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)<br>
+This page gives some summary about process scheduling in operating system. The source of it is same with our lecturer recommendation book from Silberschatz
+
+3. [Multiple-Processor Process Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This page explains a deeper understanding about multiprocessor scheduling. 
