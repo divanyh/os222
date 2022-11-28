@@ -78,3 +78,12 @@ ZCZC W08 90 L64 Helping a friend
 ZCZC W08 30 L40 TXT in general
 ZCZC W08 60 L83 play with pet
 ZCZC W08 300 L80 Watching: Netflix 
+ZCZC W09 600 L13 Assignment #03
+ZCZC W09 420 L99 Face-to-face lecture
+ZCZC W09 1200 L02 ZOOM
+ZCZC W09 1200 L84 Sleep
+ZCZC W09 2400 L09 Assignment in General
+ZCZC W09 90 L64 Helping a friend
+ZCZC W09 30 L40 TXT in general
+ZCZC W09 60 L83 play with pet
+ZCZC W09 300 L80 Watching: Netflix 
