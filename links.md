@@ -83,3 +83,13 @@ This page gives some summary about process scheduling in operating system. The s
 
 3. [Multiple-Processor Process Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This page explains a deeper understanding about multiprocessor scheduling. 
+
+## W09 🖥
+1. [Difference Between Preemptive and Nonpreemptive Kernel](https://pediaa.com/what-is-the-difference-between-preemptive-and-nonpreemptive-kernel/#:~:text=Preemptive%20Kernel%20is%20a%20kernel,some%20other%20process%20to%20execute.)
+An article explaining the differences between preemptive and nonpreemptive kernel.
+
+2. [Literal definition of firmware](https://www.techtarget.com/whatis/definition/firmware)
+Firmware is programming that’s written to a hardware device’s nonvolatile memory. Nonvolatile memory is a form of static random access memory whose contents are saved when a hardware device is turned off or loses its external power source.
+
+3. [How your systems structured in the storage](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+Each storage system provides the basic system of storing a datum and of holding the datum until it is retrieved at a later time. All the storage devices differ in speed, cost, size and volatility. The most common Secondary-storage device is a Magnetic-disk, which provides storage for both programs and data
